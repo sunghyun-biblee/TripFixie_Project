@@ -17,7 +17,7 @@ function Navi() {
           <StyleLink to="/notfound">여행지</StyleLink>
           <StyleLink to="/notfound">고객지원</StyleLink>
           <StyleLink to="/notfound">이용방법</StyleLink>
-          <StyleLink to="/notfound">로그인</StyleLink>
+          <StyleLink to="/login">로그인</StyleLink>
         </div>
       </div>
     </div>

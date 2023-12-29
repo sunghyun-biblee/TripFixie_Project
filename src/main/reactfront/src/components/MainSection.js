@@ -27,11 +27,11 @@ function MainSection() {
           </span>
           {gobutton ? (
             <button className="main_btn" onClick={onClicks}>
-              여행요정 시작하기
+              여행 시작해볼까요?
             </button>
           ) : (
             <button className="main_btn" onClick={onClicks}>
-              여행을 시작해볼까요?
+              여행시작 하기
             </button>
           )}
         </div>
